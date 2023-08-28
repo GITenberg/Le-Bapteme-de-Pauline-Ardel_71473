@@ -1,0 +1,33 @@
+_repo: Le-Bapteme-de-Pauline-Ardel_71473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baumann, Emile
+    alias: Baumann, Émile
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '54854'
+    url: http://www.gutenberg.org/2009/agents/54854
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%89mile_Baumann
+    - https://fr.wikipedia.org/wiki/%C3%89mile_Baumann_(%C3%A9crivain)
+description: ''
+gutenberg_issued: '2023-08-23'
+identifiers:
+  gutenberg: '71473'
+language: fr
+pgterms:marc904: https://archive.org/details/lebaptmedepaul00baum
+pgterms:marc905: 20220723064223baumann
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aParis :$bBernard Grasset, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Baptême de Pauline Ardel
+url: http://www.gutenberg.org/ebooks/71473
