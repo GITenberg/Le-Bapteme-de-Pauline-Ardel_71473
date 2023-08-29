@@ -1,5 +1,8 @@
 _repo: Le-Bapteme-de-Pauline-Ardel_71473
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71473-h/images/cover.jpg
 creator:
   author:
     agent_name: Baumann, Emile
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/%C3%89mile_Baumann
     - https://fr.wikipedia.org/wiki/%C3%89mile_Baumann_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71473#Le-Bapteme-de-Pauline-Ardel
 gutenberg_issued: '2023-08-23'
 identifiers:
   gutenberg: '71473'
